@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ObN1CLzxsS8d3oWQTid2wI5r99m4Yi0dPvfIrWnvBXLfLVo1AnV89HR8WRhUw1VkgWpNpsAmwgWW3RQTH0IE1Q==",
+  "dgSpecHash": "9OSvLMSo24XShAtPosakdeFBuhgnhL/vFiLQUqmQx3XvJOLzAd6jRXMSzjDq7sFX4xdT9EVgkqF6U7FGU/LVnA==",
   "success": true,
-  "projectFilePath": "E:\\MyGit\\Repository\\Repository.csproj",
+  "projectFilePath": "E:\\MyGit\\Projects\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\I7\\.nuget\\packages\\entityframework\\6.4.0\\entityframework.6.4.0.nupkg.sha512",
     "C:\\Users\\I7\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

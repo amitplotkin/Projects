@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yCzOh0WfRXAvbRV6e/B7/jd2mgTF+5Yt58RfUijbkSrTqh830mVmiVXqqKqtz2FE0kM8SPjctP3T6RR604ExJA==",
+  "dgSpecHash": "16pKnJREjdjAUfSSo0fqv/s9JyhBakmwD97WuUXsfEe+fKVlWvMOVAMzhvTGCuUf0nHjDmIkYI9dQzBRBHDUIA==",
   "success": true,
-  "projectFilePath": "E:\\MyGit\\DAL\\DAL.csproj",
+  "projectFilePath": "E:\\MyGit\\Projects\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\I7\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\I7\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

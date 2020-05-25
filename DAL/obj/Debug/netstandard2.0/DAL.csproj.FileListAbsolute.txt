@@ -9,3 +9,14 @@ E:\MyGit\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
 E:\MyGit\DAL\bin\Debug\netstandard2.0\appsettings.Development.json
 E:\MyGit\DAL\bin\Debug\netstandard2.0\appsettings.json
 E:\MyGit\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+E:\MyGit\Projects\DAL\bin\Debug\netstandard2.0\appsettings.Development.json
+E:\MyGit\Projects\DAL\bin\Debug\netstandard2.0\appsettings.json
+E:\MyGit\Projects\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+E:\MyGit\Projects\DAL\bin\Debug\netstandard2.0\DAL.dll
+E:\MyGit\Projects\DAL\bin\Debug\netstandard2.0\DAL.pdb
+E:\MyGit\Projects\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+E:\MyGit\Projects\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+E:\MyGit\Projects\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+E:\MyGit\Projects\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+E:\MyGit\Projects\DAL\obj\Debug\netstandard2.0\DAL.dll
+E:\MyGit\Projects\DAL\obj\Debug\netstandard2.0\DAL.pdb

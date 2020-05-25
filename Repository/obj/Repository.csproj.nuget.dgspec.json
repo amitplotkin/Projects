@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MyGit\\Repository\\Repository.csproj": {}
+    "E:\\MyGit\\Projects\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "E:\\MyGit\\DAL\\DAL.csproj": {
+    "E:\\MyGit\\Projects\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MyGit\\DAL\\DAL.csproj",
+        "projectUniqueName": "E:\\MyGit\\Projects\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "E:\\MyGit\\DAL\\DAL.csproj",
+        "projectPath": "E:\\MyGit\\Projects\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\I7\\.nuget\\packages\\",
-        "outputPath": "E:\\MyGit\\DAL\\obj\\",
+        "outputPath": "E:\\MyGit\\Projects\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -82,14 +82,14 @@
         }
       }
     },
-    "E:\\MyGit\\Repository\\Repository.csproj": {
+    "E:\\MyGit\\Projects\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MyGit\\Repository\\Repository.csproj",
+        "projectUniqueName": "E:\\MyGit\\Projects\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "E:\\MyGit\\Repository\\Repository.csproj",
+        "projectPath": "E:\\MyGit\\Projects\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\I7\\.nuget\\packages\\",
-        "outputPath": "E:\\MyGit\\Repository\\obj\\",
+        "outputPath": "E:\\MyGit\\Projects\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -108,8 +108,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "E:\\MyGit\\DAL\\DAL.csproj": {
-                "projectPath": "E:\\MyGit\\DAL\\DAL.csproj"
+              "E:\\MyGit\\Projects\\DAL\\DAL.csproj": {
+                "projectPath": "E:\\MyGit\\Projects\\DAL\\DAL.csproj"
               }
             }
           }
