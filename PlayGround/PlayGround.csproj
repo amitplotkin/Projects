@@ -29,6 +29,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="package-lock.json1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="package-lock.json1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\DAL\DAL.csproj" />
     <ProjectReference Include="..\Repository\Repository.csproj" />
   </ItemGroup>
