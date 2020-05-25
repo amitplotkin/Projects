@@ -1,0 +1,11 @@
+E:\MyGit\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+E:\MyGit\DAL\bin\Debug\netstandard2.0\DAL.dll
+E:\MyGit\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+E:\MyGit\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+E:\MyGit\DAL\bin\Debug\netstandard2.0\DAL.pdb
+E:\MyGit\DAL\obj\Debug\netstandard2.0\DAL.dll
+E:\MyGit\DAL\obj\Debug\netstandard2.0\DAL.pdb
+E:\MyGit\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+E:\MyGit\DAL\bin\Debug\netstandard2.0\appsettings.Development.json
+E:\MyGit\DAL\bin\Debug\netstandard2.0\appsettings.json
+E:\MyGit\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache

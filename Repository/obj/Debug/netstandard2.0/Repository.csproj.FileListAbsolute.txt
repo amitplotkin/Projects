@@ -1,0 +1,14 @@
+E:\MyGit\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+E:\MyGit\Repository\bin\Debug\netstandard2.0\Repository.dll
+E:\MyGit\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+E:\MyGit\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+E:\MyGit\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+E:\MyGit\Repository\bin\Debug\netstandard2.0\Repository.pdb
+E:\MyGit\Repository\bin\Debug\netstandard2.0\DAL.dll
+E:\MyGit\Repository\bin\Debug\netstandard2.0\DAL.pdb
+E:\MyGit\Repository\obj\Debug\netstandard2.0\Repository.csproj.CopyComplete
+E:\MyGit\Repository\obj\Debug\netstandard2.0\Repository.dll
+E:\MyGit\Repository\obj\Debug\netstandard2.0\Repository.pdb
+E:\MyGit\Repository\bin\Debug\netstandard2.0\appsettings.Development.json
+E:\MyGit\Repository\bin\Debug\netstandard2.0\appsettings.json
+E:\MyGit\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache

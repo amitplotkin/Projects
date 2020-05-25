@@ -1,0 +1,6 @@
+﻿migration procees based on 
+https://www.c-sharpcorner.com/article/code-first-approach-in-asp-net-core-mvc-with-ef-core-migration/
+
+add-migration MigrationName
+update-database migrationname
+update-database seeddata
